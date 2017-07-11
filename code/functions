@@ -1,0 +1,11 @@
+
+goodmorning()
+{
+	echo "Good Morning $1"
+}
+
+
+todate()
+{
+	echo `date`
+}
