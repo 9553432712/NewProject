@@ -1,10 +1,12 @@
-Response: 
+#!/bin/bash
 
-{"error": "error_message"}
-{"success": "success_message"}
+#Response: 
+
+#{"error": "error_message"}
+#{"success": "success_message"}
 
 
-Parse the response 
+#Parse the response 
 
 
 
